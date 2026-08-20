@@ -141,7 +141,7 @@ Analyzes claims performance, medical costs, claims paid, and claims-related tren
 
 Provides insights into member health-risk profiles, including risk categories, age, BMI, smoking status, chronic conditions, and population composition.
 
-![Health Risk & Population](./Page%203_Health_Risk_%26_Population.png)
+![Health Risk & Population](./Page%203_Health_Risk_and_Population.png)
 
 ---
 
@@ -149,7 +149,7 @@ Provides insights into member health-risk profiles, including risk categories, a
 
 Analyzes member characteristics and insurance plan performance across key demographic and financial measures.
 
-![Member & Plan Analysis](./Page%204_Member_%26_Plan_Analysis.png)
+![Member & Plan Analysis](./Page%204_Member_and_Plan_Analysis.png)
 
 ---
 
@@ -157,7 +157,7 @@ Analyzes member characteristics and insurance plan performance across key demogr
 
 Provides regional and provider-network analysis to identify differences in members, medical costs, claims, and health-risk profiles.
 
-![Regional & Network Analysis](./Page%205_Regional_%26_Network_Analysis.png)
+![Regional & Network Analysis](./Page%205_Health_and_Network_Analysis.png)
 
 ---
 
